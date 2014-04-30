@@ -31,3 +31,7 @@ Minutes countdown timer is perfect for:
 • Cooking - make sure that soufflé doesn’t burn
 • Household tasks - remember to take out the laundry
 • Sports - challenge yourself to beat your last run with a clear indication of your remaining time.
+
+Copyright
+=========
+© 2014 Stronger.io / Filip Jakobsen. Released under the MIT License. Sound credits: Bronze Bell © Zabuhailo at FreeSound.org under the Creative Commons Attribution 3.0 Unported license. Designed and coded in Denmark in 2014 with assistance from Stine Søndergaard. Some quotes in the app borrowed from the curated quotes of the Swiss Miss blog.
