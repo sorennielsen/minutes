@@ -1,4 +1,4 @@
-minutes
+Minutes
 =======
 
 Minimalistic Countdown Timer app for iOS
