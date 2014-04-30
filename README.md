@@ -3,7 +3,7 @@ Minutes
 
 Minimalistic Countdown Timer app for iOS
 
-Find it on the app store as Minutes Countdown Timer - I've released it here in case anyone would find it helpful
+Find it on the app store as Minutes Countdown Timer - I've released it here in case anyone would find it helpful.
 
 
 
